@@ -1,22 +1,15 @@
-<!-- Include custom CSS -->
-<link rel="stylesheet" type="text/css" href="style.css">
+# Hi, I'm Devin 👋 
 
-# Hi, I'm Devin 👋, welcome!
+[Network Administrator](https://github.com/DMCKNET), [U.S. Army Soldier, and Cloud Enthusiast](https://www.linkedin.com/in/devin-mckinney-734772122)
 
-**Network Administrator, U.S. Army Soldier, and Cloud Enthusiast**
+### Certifications:
 
-- Network Administrator: `#0078D7` (Blue)
-- U.S. Army Soldier: `#5C2D91` (Purple)
-- Cloud Enthusiast: `#008272` (Teal)
+:white_check_mark: CompTIA Security+
 
-<p class="blue-text">
-  <strong>Network Administrator</strong>
-</p>
+:white_check_mark: Cisco Certified Network Associate (CCNA)
 
-<p class="purple-text">
-  <strong>U.S. Army Soldier</strong>
-</p>
+:white_check_mark: Microsoft Azure Fundamentals (AZ-900)
 
-<p class="teal-text">
-  <strong>Cloud Enthusiast</strong>
-</p>
+[<img align="left" alt="DMCKNET | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: ttps://www.linkedin.com/in/devin-mckinney-734772122/

@@ -1,2 +1,4 @@
 # Hi, I’m Devin 👋, welcome!
-<span style="color: blue;">Network Administrator, U.S. Army Soldier, and Cloud Enthusiast</span>
+<p style="font-size:20px; color:blue;">
+  <strong>Network Administrator, U.S. Army Soldier, and Cloud Enthusiast</strong>
+</p>

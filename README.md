@@ -1,6 +1,6 @@
 # Hi, I'm Devin 👋 
 
-[Network Administrator](https://github.com/DMCKNET), [U.S. Army Soldier, and Cloud Enthusiast](https://www.linkedin.com/in/devin-mckinney-734772122)
+# [Network Administrator](https://github.com/DMCKNET), [U.S. Army Soldier, and Cloud Enthusiast](https://www.linkedin.com/in/devin-mckinney-734772122)
 
 ### Certifications:
 
@@ -12,4 +12,4 @@
 
 [<img align="left" alt="DMCKNET | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: ttps://www.linkedin.com/in/devin-mckinney-734772122/
+[linkedin]: https://www.linkedin.com/in/devin-mckinney-734772122/

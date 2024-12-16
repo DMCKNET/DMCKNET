@@ -6,6 +6,8 @@
 
 :white_check_mark: CompTIA Security+
 
+:white_check_mark: CompTIA A+
+
 :white_check_mark: Cisco Certified Network Associate (CCNA)
 
 :white_check_mark: Microsoft Azure Fundamentals (AZ-900)

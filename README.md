@@ -1,6 +1,6 @@
 # Hi, I'm Devin 👋 
 
-# [Network Administrator](https://github.com/DMCKNET), [U.S. Army Veteran](https://www.linkedin.com/in/devin-mckinney-734772122)
+# [Network Administrator, U.S. Army Veteran](https://www.linkedin.com/in/devin-mckinney-734772122)
 
 ### Certifications:
 
